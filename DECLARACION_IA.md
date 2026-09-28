@@ -1,16 +1,14 @@
-# Declaracion de uso de IA
+Declaracion de uso de IA
 
-Nombre: Matias Espinosa
-Ramo: Base de datos II
-Docente: Jacqueline Aldridge
-Tarea 1: Sistema de cuentas bancarias
+Nombre Matias Espinosa
+Ramo Base de datos II
+Docente Jacqueline Aldridge
+Tarea 1 Sistema de cuentas bancarias
 
-1. Herramientas usadas
-Use Gemini para consultar dudas del codigo y armar ejemplos.
+Herramientas usadas
+Use Gemini para consultar dudas del codigo y ver ejemplos
 
-2. En que la use
-- Datos de prueba: Le pedi que me tire una lista de mas de 20 cuentas mezclando casos buenos y malos (sin nombre, numeros repetidos, saldos negativos o cosas mal escritas) para probar la funcion que limpia los datos.
-- Metodo girar: Para revisar bien como armar el sobregiro en la cuenta corriente sin caerme con los calculos y como tirar los raise ValueError cuando los montos no son validos.
+En que la use
+Datos de prueba le pedi que me armara una lista de mas de 20 cuentas con casos buenos y malos como cuentas repetidas sin nombre saldos negativos o cosas mal escritas para probar la funcion que limpia los datos
 
-3. Adaptacion del codigo
-Revise todo el codigo por mi cuenta, ordene las clases Cuenta, Ahorro, Corriente y Banco segun lo que vimos en clases usando encapsulamiento con los atributos privados (__saldo y __numero_cuenta) y metodos normales para mover la plata.
+Metodo girar consulte como armar bien el sobregiro en la cuenta corriente para no fallar en el calculo y como usar los raise ValueError cuando los montos no son validos
